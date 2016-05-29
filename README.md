@@ -15,9 +15,7 @@
 * [FB Messneger node library 2](https://github.com/DiegoRBaquero/node-fb-messenger)
 * [PyMessanger](https://github.com/davidchua/pymessenger)
 * [FB Chat](https://pypi.python.org/pypi/fbchat/)
-
-* Multiple images can be shown horizontally.
-
+* [How to create a FB Messenger bot - node tutorial](https://sumwu.me/blog/page/9/how-to-create-a-facebook-messenger-bot/)
 
 ## Bot Engines (Libraries, etc)
 
