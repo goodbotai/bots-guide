@@ -8,9 +8,13 @@
 ## Telegram
 * [Rich media support for RapidPro](http://blog.textit.in/feature-update-collect-media-via-twilio-telegram) - need to see if this works for FB Messanger
 
-## FB Messanger
-* [FB Messanger Platform guide](https://developers.facebook.com/docs/messenger-platform)
-* [FB Messanger Javascript SDK](https://developers.facebook.com/docs/javascript/quickstart)
+## FB Messenger
+* [FB Messenger Platform guide](https://developers.facebook.com/docs/messenger-platform)
+* [FB Messenger Javascript SDK](https://developers.facebook.com/docs/javascript/quickstart)
+* [FB Messenger node library](https://www.npmjs.com/package/fb-messenger)
+* [FB Messneger node library 2](https://github.com/DiegoRBaquero/node-fb-messenger)
+* [PyMessanger](https://github.com/davidchua/pymessenger)
+* [FB Chat](https://pypi.python.org/pypi/fbchat/)
 
 * Multiple images can be shown horizontally.
 
