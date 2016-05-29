@@ -11,6 +11,7 @@
 ## FB Messenger
 * [FB Messenger Platform guide](https://developers.facebook.com/docs/messenger-platform)
 * [FB Messenger Javascript SDK](https://developers.facebook.com/docs/javascript/quickstart)
+* [Messenger Bot - node](https://github.com/remixz/messenger-bot) - probably the best thing to use.
 * [FB Messenger node library](https://www.npmjs.com/package/fb-messenger)
 * [FB Messneger node library 2](https://github.com/DiegoRBaquero/node-fb-messenger)
 * [PyMessanger](https://github.com/davidchua/pymessenger)
