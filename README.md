@@ -9,6 +9,13 @@
 * [Rich media support for RapidPro](http://blog.textit.in/feature-update-collect-media-via-twilio-telegram) - need to see if this works for FB Messanger
 
 ## FB Messanger
+* [FB Messanger Platform guide](https://developers.facebook.com/docs/messenger-platform)
+* [FB Messanger Javascript SDK](https://developers.facebook.com/docs/javascript/quickstart)
+
+* Multiple images can be shown horizontally.
 
 
 ## Bot Engines (Libraries, etc)
+
+
+
